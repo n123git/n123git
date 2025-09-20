@@ -2,7 +2,7 @@ Guess im doing what everyone else does.... GPRM time!!
 
 # 💫 About Me:
 I exist (probably)
-
+* Unprofessional programmer and reverse engineerer
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/863363656464465932) 
